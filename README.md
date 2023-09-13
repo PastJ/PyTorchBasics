@@ -4,3 +4,11 @@ The following are codes to demonstrate the usefulness and fundamentals of Neural
 1. Linear Regression
 2. Classification
 3. Computer Vision
+
+| Type | Description |
+|----- |-------------|
+|Regression - Predicting unknown parameters from known parameters of a simple linear regression [Task 1 Code](https://github.com/PastJ/LLNL2023/blob/main/Task1.ipynb)|
+|Classification - Binary and multi-class classification of sklearn MakeMoons() dataset [Task 2 Code](https://github.com/PastJ/LLNL2023/blob/main/Task2.ipynb)|
+|Computer Vision - Classification of Fashion MNIST dataset. [Task 3 Code](https://github.com/PastJ/LLNL2023/blob/main/Task3.ipynb)|
+
+
